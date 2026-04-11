@@ -1,4 +1,3 @@
-```markdown
 # 🚀 NovaOS
 
 [![Next.js](https://img.shields.io/badge/Next.js-16.1.6-black?logo=next.js)](https://nextjs.org/)
@@ -172,16 +171,9 @@ Follow existing code style (Prettier + ESLint).
 
 ---
 
-## 📄 License
-
-This project is **private** – all rights reserved.  
-Please contact the author for licensing inquiries.
-
----
-
 ## 👤 Author
 
-**AliHD** – [GitHub](https://github.com/alihd-tech) *(update with your profile)*
+**AliHD** – [GitHub](https://github.com/alihd-tech)
 
 ---
 
@@ -196,5 +188,4 @@ Please contact the author for licensing inquiries.
 
 ---
 
-> Built with ☕ and 🦀 – a desktop‑grade web OS.
-```
+> Built with ☕ and 🦀
